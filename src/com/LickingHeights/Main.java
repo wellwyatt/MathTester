@@ -12,6 +12,7 @@ public class Main {
         System.out.println(("First Number + Second Number is ")+ (firstNumber+secondNumber));
         System.out.println(("First Number - Second Number is ")+ (firstNumber-secondNumber));
 
-
+        System.out.println(("First number * Second Number is ")+ (firstNumber*secondNumber));
+        System.out.println(("First Number / Second Number is ")+ (firstNumber/secondNumber));
     }
 }

@@ -9,7 +9,8 @@ public class Main {
         firstNumber = 8;
         secondNumber = 5;
 
-
+        System.out.println(("First Number + Second Number is ")+ (firstNumber+secondNumber));
+        System.out.println(("First Number - Second Number is ")+ (firstNumber-secondNumber));
 
 
     }

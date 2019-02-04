@@ -6,6 +6,9 @@ public class Main {
 	// write your code here
         int firstNumber,secondNumber;
 
+        firstNumber = 8;
+        secondNumber = 5;
+
 
 
 
